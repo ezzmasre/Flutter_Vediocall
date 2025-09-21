@@ -8,11 +8,6 @@ A real-time peer-to-peer video calling application built with Flutter and WebRTC
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-## 📸 Screenshots
-
-| Join Room | Waiting Screen | Video Call |
-|-----------|----------------|------------|
-| ![Join](https://via.placeholder.com/250x500/4CAF50/FFFFFF?text=Join+Room) | ![Waiting](https://via.placeholder.com/250x500/2196F3/FFFFFF?text=Waiting+Screen) | ![Call](https://via.placeholder.com/250x500/FF9800/FFFFFF?text=Video+Call) |
 
 
 ## ✨ Features
