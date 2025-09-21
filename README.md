@@ -14,9 +14,6 @@ A real-time peer-to-peer video calling application built with Flutter and WebRTC
 |-----------|----------------|------------|
 | ![Join](https://via.placeholder.com/250x500/4CAF50/FFFFFF?text=Join+Room) | ![Waiting](https://via.placeholder.com/250x500/2196F3/FFFFFF?text=Waiting+Screen) | ![Call](https://via.placeholder.com/250x500/FF9800/FFFFFF?text=Video+Call) |
 
-## 🎥 Demo
-
-https://github.com/yourusername/flutter-video-call/assets/demo.mp4
 
 ## ✨ Features
 
@@ -534,12 +531,7 @@ SOFTWARE.
 - Contributors and testers
 - Open source community
 
-## 📞 Support
 
-- **Documentation:** [Wiki](https://github.com/yourusername/flutter-video-call/wiki)
-- **Issues:** [GitHub Issues](https://github.com/yourusername/flutter-video-call/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/flutter-video-call/discussions)
-- **Email:** your.email@example.com
 
 ## 🔮 Roadmap
 
@@ -585,6 +577,6 @@ SOFTWARE.
 
 **⭐ Star this repository if it helped you! ⭐**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Ezz Masre](https://github.com/ezzmasre)
 
 </div>
